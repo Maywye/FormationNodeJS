@@ -1,0 +1,15 @@
+{
+  "name": "formationnodejs",
+  "version": "1.0.0",
+  "description": "Formation NodeJS POE Front Toulouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marine",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "esm": "^3.2.25"
+  }
+}
